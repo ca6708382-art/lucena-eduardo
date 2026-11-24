@@ -1,0 +1,6 @@
+{
+  "name": "Women In Business Conference",
+  "description": "Конференция для женщин, которые создают бизнес и управляют изменениями — Women & Impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
